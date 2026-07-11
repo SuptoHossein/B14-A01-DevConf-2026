@@ -262,7 +262,7 @@ footer {
     font-size: 25px;
 }
 
-footer hr {
+footer hr, .pro hr {
     border: 1px solid #2c455f;
     margin: 20px 0;
 }
