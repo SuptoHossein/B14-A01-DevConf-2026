@@ -191,7 +191,7 @@ hr {
     margin: 20px 0;
 }
 
-li::marker {
+.pricing-table li::marker {
     color: #2563EB;
 }
 
@@ -253,6 +253,11 @@ footer {
     align-items: center;
 }
 
+.social-media-area ul {
+    display: flex;
+    gap: 20px;
+}
+
 .social-media-area ul li a {
     font-size: 25px;
 }
@@ -269,7 +274,7 @@ footer .content {
     align-items: center;
 }
 
-footer ul {
+.privacy-policy ul {
     display: flex;
     justify-content: space-between;
     gap: 25px;
